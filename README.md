@@ -4,11 +4,11 @@ This repository contains different Jupyter notebooks that demonstrate how to use
 
 ## Notebooks
 
-1. [Linear Regression](linear-regression-spark-ml.ipynb): This notebook demonstrates how to use Spark ML's Linear Regression to predict house sale prices. It uses the `housing.csv` dataset.
+1. [Linear Regression](linear_regression_spark_ml.ipynb): This notebook demonstrates how to use Spark ML's Linear Regression to predict house sale prices. It uses the `housing.csv` dataset.
 
-2. [Logistic Regression](logistic-regression-spark-ml.ipynb): This notebook shows how to use Spark ML's Logistic Regression for classification tasks. It uses the `drybeans.csv` dataset.
+2. [Logistic Regression](logistic_regression_spark_ml.ipynb): This notebook shows how to use Spark ML's Logistic Regression for classification tasks. It uses the `drybeans.csv` dataset.
 
-3. [Clustering](clustering-spark-ml.ipynb): This notebook illustrates how to use Spark ML's K-means clustering model. The dataset used in this notebook is `seeds.csv`.
+3. [Clustering](clustering_spark_ml.ipynb): This notebook illustrates how to use Spark ML's K-means clustering model. The dataset used in this notebook is `seeds.csv`.
 
 ## Datasets
 
